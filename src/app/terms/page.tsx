@@ -91,7 +91,7 @@ export default function TermsPage() {
             <p>
               For any questions regarding these Terms and Conditions, please reach out through the{" "}
               <a
-                href="https://github.com/lazyekansh/zip-to-git"
+                href="https://github.com/lazyekansh/zipgit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-zinc-300 underline transition-colors"

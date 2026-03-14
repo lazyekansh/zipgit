@@ -9,10 +9,10 @@ export const metadata: Metadata = {
     icon: "/logo.svg",
   },
   openGraph: {
-    title: "zipgit",
+    title: "ZipGit",
     description: "Drop a ZIP, get a repo.",
     url: "https://ziptogit.ek4nsh.in",
-    siteName: "zipgit",
+    siteName: "ZipGit",
     images: [
       {
         url: "/logo.svg",

@@ -33,7 +33,7 @@ export default function Footer() {
                 </Link>
               </li>
               <li>
-                <a href="https://github.com/lazyekansh/zip-to-git" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
+                <a href="https://github.com/lazyekansh/zipgit" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">
                   GitHub
                 </a>
               </li>

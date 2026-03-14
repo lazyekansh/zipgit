@@ -3,11 +3,13 @@ import { Providers } from "./providers";
 import type { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "zipgit",
+  title: "ZipGit",
   description: "Drop a ZIP, get a repo. Upload a ZIP and push it directly to GitHub without using git commands.",
+
   icons: {
     icon: "/logo.svg",
   },
+
   openGraph: {
     title: "ZipGit",
     description: "Drop a ZIP, get a repo.",
@@ -15,12 +17,19 @@ export const metadata: Metadata = {
     siteName: "ZipGit",
     images: [
       {
-        url: "/logo.svg",
-        width: 512,
-        height: 512,
+        url: "https://ziptogit.ek4nsh.in/preview.png",
+        width: 1200,
+        height: 630,
       },
     ],
     type: "website",
+  },
+
+  twitter: {
+    card: "summary_large_image",
+    title: "ZipGit",
+    description: "Drop a ZIP, get a repo.",
+    images: ["https://ziptogit.ek4nsh.in/preview.png"],
   },
 };
 

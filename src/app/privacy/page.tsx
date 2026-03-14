@@ -102,7 +102,7 @@ export default function PrivacyPage() {
             <p>
               For privacy-related inquiries, please contact us through the{" "}
               <a
-                href="https://github.com/lazyekansh/zip-to-git"
+                href="https://github.com/lazyekansh/zipgit"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-white hover:text-zinc-300 underline transition-colors"

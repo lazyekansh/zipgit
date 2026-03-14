@@ -61,7 +61,7 @@ export default function Home() {
             </svg>
           </Link>
           <a
-            href="https://github.com/lazyekansh/zip-to-git"
+            href="https://github.com/lazyekansh/zipgit"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-white/10 text-white px-8 py-4 rounded-full font-medium flex items-center gap-2 hover:bg-white/5 transition-colors"

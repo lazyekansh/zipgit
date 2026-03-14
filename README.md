@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=zipgit;Drop+a+ZIP%2C+get+a+repo." alt="zipgit" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=80&lines=ZipGit;Drop+a+ZIP%2C+get+a+repo." alt="ZipGit" />
 
 <br/>
 
